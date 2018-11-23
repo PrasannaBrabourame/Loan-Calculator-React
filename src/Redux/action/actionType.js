@@ -1,0 +1,1 @@
+export const SAVE_LOAN_DETAILS = 'SAVE_LOAN_DETAILS';
